@@ -1,1 +1,2 @@
-# Command-line-Application-using-python
+# Command-Line Calculator Application Using Python:
+Designed and developed a command-line calculator application using Python to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulo. Implemented the solution using user-defined functions, conditional logic, and iterative loops to create a menu-driven interface that supports continuous calculations until the user exits. The project demonstrates strong understanding of core Python programming concepts, input validation, and problem solving skills.
